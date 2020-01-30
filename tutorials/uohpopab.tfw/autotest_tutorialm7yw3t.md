@@ -1,9 +1,9 @@
 ---
-title: autotestU0B0f4
-description: autotest6UP50M_1/30/2020 10:37:53 PM
+title: autotest62f0HO
+description: autotestCJ21bv_1/30/2020 10:37:53 PM
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
-primary_tag: tutorial:product/sapHana
-time: 466
+primary_tag: 
+time: 610
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
